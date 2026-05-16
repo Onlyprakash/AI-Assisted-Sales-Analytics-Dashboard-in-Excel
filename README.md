@@ -15,9 +15,9 @@ The dashboard helps in understanding:
 This dashboard project was developed using a combination of Microsoft Excel and AI-assisted analytics/design tools to improve dashboard structure, visualization ideas, and reporting workflow.
 
 ### AI Tools Explored
-- DataSquirrel AI <img width="50" height="50" alt="datasquirrel" src="https://github.com/user-attachments/assets/70e2273d-461d-4e04-90e5-912c038e3e05" />
+- DataSquirrel AI <img width="50" height="40" alt="datasquirrel" src="https://github.com/user-attachments/assets/70e2273d-461d-4e04-90e5-912c038e3e05" />
 
-- Julius AI <img width="50" height="50" alt="julius" src="https://github.com/user-attachments/assets/e9d8c011-6775-4082-bbec-76c72fc3052c" />
+- Julius AI <img width="50" height="40" alt="julius" src="https://github.com/user-attachments/assets/e9d8c011-6775-4082-bbec-76c72fc3052c" />
 
   
 - Gamma AI <img width="50" height="40" alt="Screenshot 2026-05-16 131843" src="https://github.com/user-attachments/assets/41441957-47b0-49f9-9319-b1be93b4c841" />
