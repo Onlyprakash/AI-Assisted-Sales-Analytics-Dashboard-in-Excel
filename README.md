@@ -1,4 +1,4 @@
-#  🤖 AI Assisted Sales Analytics Dashboard <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/> 
+#  AI Assisted Sales Analytics Dashboard <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/> 
 
 ## 📌 Project Overview
 This project focuses on building an interactive Sales Analytics Dashboard in Microsoft Excel to analyze business performance, monitor KPIs, track revenue trends, and identify product-wise sales insights.
