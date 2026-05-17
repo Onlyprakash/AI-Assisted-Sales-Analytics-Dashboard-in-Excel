@@ -10,6 +10,10 @@ The dashboard helps in understanding:
 - Sales growth tracking
 - KPI-based business reporting
 
+## 📈 Dashboard Preview
+
+<img width="1000" height="500" alt="Screenshot 2026-05-16 124530" src="https://github.com/user-attachments/assets/108f5493-cdd8-4e16-a049-a9f748969545" />
+
 ## 🤖 AI-Assisted Workflow
 
 This dashboard project was developed using a combination of Microsoft Excel and AI-assisted analytics/design tools to improve dashboard structure, visualization ideas, and reporting workflow.
@@ -62,9 +66,6 @@ This dashboard project was developed using a combination of Microsoft Excel and 
 - Cumulative revenue analysis showed overall business growth progression.
 - Revenue and cost comparison helped identify business performance patterns.
 
-## 📈 Dashboard Preview
-
-<img width="1000" height="500" alt="Screenshot 2026-05-16 124530" src="https://github.com/user-attachments/assets/108f5493-cdd8-4e16-a049-a9f748969545" />
 
 ## 📊 KPIs Tracked
 
